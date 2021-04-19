@@ -2,7 +2,7 @@
 
 <p align = "center">
 <a href="https://www.kaggle.com/paultimothymooney/kermany2018">
-<img src="https://imgur.com/fSTeZMd" alt="Images in dataset">
+<img src="https://i.imgur.com/fSTeZMd.png" alt="Images in dataset">
 </a>
 </p.
 
@@ -17,3 +17,16 @@
 </td>
 </tr>
 </table>
+
+## Solution methodology
+1. Models created using TensorFlow
+2. VGG - 19 and MobileNet v2 pre-trained weights used
+3. results are compared
+
+## Running time
+1. Models took 4.5 hours each to train
+2. Trained on kaggle basic kernel using Nvidia P-100 class GPU
+
+## Consolidated results and comparisons
+
+Please refer to the full project report.
