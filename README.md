@@ -20,7 +20,7 @@
 
 ## Solution methodology
 1. Models created using TensorFlow
-2. VGG - 19 and MobileNet v2 pre-trained weights used
+2. VGG-19 and MobileNet v2 pre-trained weights used
 3. results are compared
 
 ## Running time
