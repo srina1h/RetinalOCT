@@ -24,7 +24,7 @@
 3. results are compared
 
 ## Running time
-1. Models took 4.5 hours each to train
+1. Models took 0.5 hours each to train
 2. Trained on kaggle basic kernel using Nvidia P-100 class GPU
 
 ## Consolidated results and comparison
